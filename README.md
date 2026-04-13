@@ -94,7 +94,7 @@ Las fuentes se cargan vía `next/font/google` (sin CDN externo):
 
 | Desktop | Mobile |
 |---------|--------|
-| ![Desktop](preview-desktop.png) | ![Mobile](preview-mobile.png) |
+| [![Desktop](preview-desktop.png)](preview-desktop.png) | [![Mobile](preview-mobile.png)](preview-mobile.png) |
 
 ---
 
